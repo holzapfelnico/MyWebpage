@@ -21,7 +21,7 @@ const projects = [
     location: "",
     type: "",
     collaborators: [],
-    text: "",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     hero: { type: "image", src: "starter_img/0001.jpg", alt: "Project 0001" },
     media: [
       { type: "image", src: "projects/0001/0001_1_Seite_1_ergebnis.webp", alt: "Project 0001 image 1" },
@@ -37,7 +37,7 @@ const projects = [
     location: "",
     type: "",
     collaborators: [],
-    text: "",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     hero: { type: "image", src: "hero_img/hero_0002_ergebnis.webp", alt: "Project 0002" },
     media: [
       { type: "image", src: "projects/0002/Lageplan Grünwald_ergebnis.webp", alt: "Project 0002 Lageplan" },
@@ -55,7 +55,7 @@ const projects = [
     location: "",
     type: "",
     collaborators: [],
-    text: "",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     hero: { type: "image", src: "hero_img/hero_0003_ergebnis.webp", alt: "Project 0003" },
     media: [
       { type: "image", src: "projects/0003/project0003_01_ergebnis.webp", alt: "Project 0003 image 01" },
@@ -82,7 +82,7 @@ const projects = [
     location: "",
     type: "",
     collaborators: [],
-    text: "",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     hero: { type: "image", src: "hero_img/hero_0004_ergebnis.webp", alt: "Project 0004" },
     media: [
       { type: "image", src: "projects/0004/0004_01_ergebnis.webp", alt: "Project 0004 image 01" },
@@ -156,7 +156,7 @@ const projects = [
     location: "",
     type: "",
     collaborators: [],
-    text: "",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     hero: { type: "image", src: "hero_img/hero_0007_ergebnis.webp", alt: "Project 0007" },
     media: [
       { type: "image", src: "projects/0007/0007_01_ergebnis.webp", alt: "Project 0007 image 01" },
@@ -227,7 +227,7 @@ const projects = [
     location: "",
     type: "",
     collaborators: [],
-    text: "",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     hero: { type: "image", src: "hero_img/hero_0010_ergebnis.webp", alt: "Project 0010" },
     media: [
       { type: "image", src: "projects/0010/0010_01_ergebnis.webp", alt: "Project 0010 image 1" },
